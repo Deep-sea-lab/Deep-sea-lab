@@ -1,8 +1,8 @@
 ### Hi there 👋,I'm Deep-sea.
 
-🔭 目前玩游戏已经黑化了👽
-🌱 正在尝试学习Python和Vue.js
-📫 如何找到我: ![lcx1029lcx1029@dingtalk.com](mailto:lcx1029lcx1029@dingtalk.com)
+- 🔭 目前玩游戏已经黑化了👽
+- 🌱 正在尝试学习Python和Vue.js
+- 📫 如何找到我: ![lcx1029lcx1029@dingtalk.com](mailto:lcx1029lcx1029@dingtalk.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-sea-lab&layout=compact&theme=tokyonight)
 
